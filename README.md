@@ -30,8 +30,8 @@ Since I could not upload the original file due to its size, I have linked my .xl
 https://drive.google.com/file/d/1i5QyqHixdLznsZdXEBqcBKIiw810sgm9/view?usp=sharing
 
 
-Found in VBA Homework Folder:
+In "VBA Homework" Folder within this repository:
 
-The screenshots of the resulting summaries for the tickers in each workseet have been uploaded as files in my repository.
+The screenshots of the resulting summaries for the tickers in each workseet have been uploaded as files to my repository.
 
-There has also been a .vbs file uploaded containing the full VBA script for this homework.
+There has also been a .vbs file uploaded containing the full VBA script I made for this homework.
